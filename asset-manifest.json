@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OleconsTask/static/css/main.46657651.css",
+    "main.js": "/OleconsTask/static/js/main.d7661883.js",
+    "static/js/787.ec704a7a.chunk.js": "/OleconsTask/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/OleconsTask/index.html",
+    "static/media/getFetch.cjs": "/OleconsTask/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.46657651.css.map": "/OleconsTask/static/css/main.46657651.css.map",
+    "main.d7661883.js.map": "/OleconsTask/static/js/main.d7661883.js.map",
+    "787.ec704a7a.chunk.js.map": "/OleconsTask/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46657651.css",
+    "static/js/main.d7661883.js"
+  ]
+}
